@@ -1,0 +1,51 @@
+
+@hostname = localhost
+@port = 8081
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+
+###
+
+# @name = getGladiators
+GET http://localhost:8081/gladiators
+
+###
+
+# @name = getGladiatorTypes
+GET http://localhost:8081/gladiators/types
+
+###
+
+# @name = addMurmillo
+# @prompt name
+POST http://localhost:8081/gladiators
+Content-Type: {{contentType}}
+
+{
+    "name": "{{name}}",
+    "type": "MURMILLO"
+}
+
+###
+
+# @name = addThraex
+# @prompt name
+POST http://localhost:8081/gladiators
+Content-Type: {{contentType}}
+
+{
+    "name": "{{name}}",
+    "type": "THRAEX"
+}
+
+###
+
+# @name = addDimachaerus
+# @prompt name
+POST http://localhost:8081/gladiators
+Content-Type: {{contentType}}
+
+{
+    "name": "{{name}}",
+    "type": "DIMACHAERUS"
+}

@@ -1,0 +1,10 @@
+@hostname = localhost
+@port = 8081
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+
+###
+
+# @name = resolveRandomDuel
+POST http://{{host}}/duels/resolve/random
+Content-Type: {{contentType}}

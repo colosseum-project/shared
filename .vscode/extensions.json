@@ -1,0 +1,11 @@
+{
+    // See https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions
+    // for the documentation about the extensions.json format
+    "recommendations": [
+        "humao.rest-client",
+        "ms-azuretools.vscode-docker",
+        "DavidAnson.vscode-markdownlint",
+        "yzhang.markdown-all-in-one",
+        "Gruntfuggly.todo-tree",
+    ]
+}

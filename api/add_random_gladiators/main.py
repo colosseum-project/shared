@@ -15,7 +15,7 @@ gladiator_types = ("MURMILLO", "THRAEX", "DIMACHAERUS")
 gladiator_types_count = len(gladiator_types)
 for i in range(GLADIATORS_COUNT):
     gladiator = {
-        "name": latin_names[randint(0, latin_names_count - 1)].replace("_", " "),
+        "name": latin_names[randint(0, latin_names_count - 1)],
         "type": gladiator_types[randint(0, gladiator_types_count - 1)],
     }
     requests.post(

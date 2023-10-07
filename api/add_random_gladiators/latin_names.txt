@@ -16,7 +16,6 @@ Abarim
 Abarimon
 Abaritana
 Abas
-Abas_secat
 Abatos
 Abbassium
 Abda
@@ -120,7 +119,6 @@ Acade
 Academi
 Academia
 Academiae
-Academiae_utrumque
 Academiaest
 Academiam
 Academias
@@ -236,7 +234,6 @@ Achaeas
 Achaei
 Achaeiadas
 Achaeis
-Achaeis_erant
 Achaeme
 Achaemenes
 Achaemeniae
@@ -260,7 +257,6 @@ Achaeum
 Achaeus
 Achai
 Achaia
-Achaia_praetermittam
 Achaiae
 Achaiam
 Achaica
@@ -346,7 +342,6 @@ Achilleo
 Achilleon
 Achilleos
 Achilles
-Achilles_
 Achilleus
 Achilli
 Achillia
@@ -357,7 +352,6 @@ Achiua
 Achiuae
 Achiui
 Achiuis
-Achiuis_
 Achiuom
 Achiuorum
 Achiuos
@@ -367,7 +361,6 @@ Achiuae
 Achiuam
 Achiui
 Achiuis
-Achiuis_
 Achiuo
 Achiuom
 Achiuorum
@@ -586,7 +579,6 @@ Adonidis
 Adonim
 Adonin
 Adonis
-Adonium_
 Adoptauit
 Adoreo
 Adpo
@@ -641,8 +633,6 @@ Aeacidarum
 Aeacidas
 Aeacide
 Aeaciden
-Aeaciden_quippe
-Aeaciden_quis
 Aeacides
 Aeacidinis
 Aeacidis
@@ -681,7 +671,6 @@ Aebutii
 Aebutio
 Aebutium
 Aebutius
-Aebutius_ne
 Aeci
 Aeco
 Aeculanum
@@ -840,10 +829,8 @@ Aegyptiorumque
 Aegyptios
 Aegyptiosque
 Aegyptium
-Aegyptium_pro
 Aegyptius
 Aegypto
-Aegypto_
 Aegypton
 Aegyptos
 Aegyptum
@@ -926,7 +913,6 @@ Aeno
 Aenobarbum
 Aenos
 Aenum
-Aenum_alii
 Aenus
 Aenuscabales
 Aeo
@@ -960,7 +946,6 @@ Aeolo
 Aeolon
 Aeolum
 Aeolus
-Aeolus_exul
 Aepulo
 Aepy
 Aepytios
@@ -1173,7 +1158,6 @@ Aetolisque
 Aetolius
 Aetolo
 Aetolorum
-Aetolorum_eadem
 Aetolorumque
 Aetolos
 Aetolosque
@@ -1196,7 +1180,6 @@ Afranianus
 Afranii
 Afranio
 Afranium
-Afranium_satis
 Afraniumque
 Afranius
 Afras
@@ -1204,10 +1187,7 @@ Afri
 Afric
 Africa
 Africae
-Africae_satisque
-Africae_sic
 Africam
-Africam_ita
 Africamque
 Africana
 Africanae
@@ -1217,7 +1197,6 @@ Africanas
 Africani
 Africanis
 Africano
-Africano_
 Africanorum
 Africanos
 Africanum
@@ -1235,7 +1214,6 @@ Afroniae
 Afroniam
 Afrorum
 Afros
-Afros_id
 Afrum
 Ag
 Aga
@@ -1395,7 +1373,6 @@ Agricolae
 Agricolaeque
 Agricolam
 Agrigenti
-Agrigenti_credo
 Agrigentini
 Agrigentinis
 Agrigentinorum
@@ -1768,9 +1745,6 @@ Alexandrinos
 Alexandrinum
 Alexandrinus
 Alexandro
-Alexandro_erat
-Alexandro_nam
-Alexandro_quippe
 Alexandropolis
 Alexandrum
 Alexandrumque
@@ -1901,7 +1875,6 @@ Alphesiboeus
 Alpheum
 Alpheumque
 Alpheus
-Alpheus_nauigatur
 Alphio
 Alpi
 Alpibus
@@ -2015,7 +1988,6 @@ Amathusiae
 Amathusium
 Amaxobioe
 Amazon
-Amazon_feminae
 Amazona
 Amazonam
 Amazonas
@@ -2164,7 +2136,6 @@ Amo
 Amoebea
 Amometus
 Amor
-Amor_procul
 Amore
 Amorem
 Amores
@@ -2173,7 +2144,6 @@ Amorgos
 Amorgum
 Amori
 Amoris
-Amoris_
 Amorque
 Amorum
 Ampelisca
@@ -2221,7 +2191,6 @@ Amphipolim
 Amphipolis
 Amphis
 Amphissa
-Amphissa_inde
 Amphissae
 Amphissos
 Amphitheam
@@ -2526,7 +2495,6 @@ Anemorianque
 Anemuri
 Anemuriensis
 Anemurio
-Anemurio_promunturium
 Anemurium
 Angeias
 Angerona
@@ -2578,7 +2546,6 @@ Animum
 Anio
 Anione
 Anionem
-Anionem_de
 Anioni
 Anionis
 Anium
@@ -2591,7 +2558,6 @@ Annaeo
 Annaeum
 Annaeus
 Annales
-Annales_nihil
 Annali
 Annalibus
 Annalis
@@ -2752,10 +2718,8 @@ Antiochensibus
 Antiochensis
 Antiochensium
 Antiochi
-Antiochi_et
 Antiochia
 Antiochiae
-Antiochiae_
 Antiochiam
 Antiochida
 Antiochii
@@ -2866,9 +2830,6 @@ Antoninos
 Antoninum
 Antoninus
 Antonio
-Antonio_o
-Antonio_sibi
-Antoniopolitae_Maeandro
 Antoniorum
 Antonios
 Antoniosque
@@ -2876,8 +2837,6 @@ Antonique
 Antonium
 Antoniumque
 Antonius
-Antonius_quem
-Antonius_sed
 Antoren
 Antores
 Antorides
@@ -2949,7 +2908,6 @@ Apaturius
 Apaturos
 Apauortene
 Ape
-Apelaurum_Stymphaliae
 Apella
 Apellae
 Apellam
@@ -3050,7 +3008,6 @@ Apollineasque
 Apollinei
 Apollineis
 Apollinem
-Apollinem_ridiculum
 Apollineo
 Apollineos
 Apollineus
@@ -3071,7 +3028,6 @@ Apollodotum
 Apollodotus
 Apolloni
 Apollonia
-Apollonia_fuit
 Apolloniae
 Apolloniam
 Apolloniatae
@@ -3142,7 +3098,6 @@ Appio
 Appios
 Appium
 Appius
-Appius_tanta
 Appuleia
 Appuleiae
 Appuleiam
@@ -3210,7 +3165,6 @@ Apulis
 Apulo
 Apulorum
 Apulos
-Apulos_nam
 Apulosque
 Apulum
 Apulus
@@ -3303,7 +3257,6 @@ Arabae
 Arabantiphocum
 Arabarches
 Arabas
-Arabas_eorum
 Arabasque
 Arabasque
 Arabe
@@ -3316,7 +3269,6 @@ Arabiae
 Arabiam
 Arabiast
 Arabica
-Arabica_spinae
 Arabicae
 Arabicam
 Arabicarum
@@ -3419,7 +3371,6 @@ Arcadas
 Arcade
 Arcadem
 Arcades
-Arcades_nam
 Arcadi
 Arcadia
 Arcadiae
@@ -3667,7 +3618,6 @@ Argestaeum
 Argestes
 Argeum
 Argi
-Argi_et
 Argia
 Argiae
 Argiam
@@ -3686,11 +3636,9 @@ Argiodus
 Argipus
 Argique
 Argis
-Argis_
 Argisue
 Argitheae
 Argitheam
-Argitheam_id
 Argiua
 Argiuae
 Argiuam
@@ -3719,7 +3667,6 @@ Argiuum
 Argiuumque
 Argiuus
 Argo
-Argo_
 Argoa
 Argoae
 Argoi
@@ -3993,7 +3940,6 @@ Armene
 Armenes
 Armeni
 Armenia
-Armenia_quanta
 Armeniaca
 Armeniacae
 Armeniaci
@@ -4663,7 +4609,6 @@ Athamanum
 Athamanumque
 Athamas
 Athamentem
-Athan_
 Athanatum
 Athe
 Athea
@@ -4704,7 +4649,6 @@ Athenionem
 Athenionis
 Athenippum
 Athenis
-Athenis_
 Athenisque
 Athenodoro
 Athenodorum
@@ -4824,7 +4768,6 @@ Atrea
 Atrebate
 Atrebatem
 Atrebates
-Atrebates_nam
 Atrebati
 Atrebatibus
 Atrebatium
@@ -4845,7 +4788,6 @@ Atriatibus
 Atriaticum
 Atrida
 Atridae
-Atridae_pudet
 Atridam
 Atridarum
 Atridas
@@ -4899,7 +4841,6 @@ Attianos
 Attianum
 Attianus
 Attica
-Attica_fere
 Atticae
 Atticam
 Atticarum
@@ -4907,7 +4848,6 @@ Atticas
 Attice
 Atticen
 Attici
-Attici_tanti
 Atticini
 Atticino
 Atticis
@@ -5048,7 +4988,6 @@ Augustos
 Augustum
 Augustumque
 Augustus
-Augustus_omitto
 Auidium
 Auidius
 Auiola
@@ -5140,7 +5079,6 @@ Aurunci
 Auruncis
 Auruncorum
 Auruncos
-Auruncos_exercitum
 Auruncu
 Aurunculeio
 Aurunculeium
@@ -5349,7 +5287,6 @@ Babylo
 Babylon
 Babylona
 Babylone
-Babylone_inde
 Babylonem
 Babyloni
 Babylonia
@@ -5376,7 +5313,6 @@ Baccara
 Bacch
 Baccha
 Bacchae
-Bacchae_
 Bacchanal
 Bacchanalia
 Bacchanalibus
@@ -5620,7 +5556,6 @@ Barbesula
 Barbitace
 Barbium
 Barbosthenem
-Barbosthenem_mons
 Barbula
 Barca
 Barcae
@@ -6145,7 +6080,6 @@ Boeoti
 Boeotia
 Boeotiae
 Boeotiam
-Boeotiam_diei
 Boeotiaque
 Boeotias
 Boeotico
@@ -6315,7 +6249,6 @@ Bracchia
 Brachia
 Brachyllem
 Brachylli
-Bracmanos_hi
 Bracmanum
 Bradylis
 Bragmanae
@@ -6511,7 +6444,6 @@ Brutum
 Brutumne
 Brutumque
 Brutus
-Brutus_senserat
 Brutum
 Bryalion
 Bryaxidis
@@ -6659,7 +6591,6 @@ Byblis
 Byblon
 Byblos
 Bycen
-Bylazora_Paeoniae
 Byllide
 Byllidenses
 Byr
@@ -6676,7 +6607,6 @@ Bytho
 Byzacia
 Byzacio
 Byzacium
-Byzacium_ita
 Byzan
 Byzanti
 Byzantia
@@ -6766,7 +6696,6 @@ Caecilii
 Caecilio
 Caecilium
 Caecilius
-Caecilius_quid
 Caecina
 Caecinae
 Caecinam
@@ -7278,7 +7207,6 @@ Caluisium
 Caluisius
 Caluo
 Caluum
-Caluum_is
 Caluus
 Caly
 Calybe
@@ -7377,15 +7305,12 @@ Campanaeque
 Campanam
 Campanas
 Campani
-Campani_quis
 Campania
-Campania_quo
 Campaniae
 Campaniam
 Campanianum
 Campanique
 Campanis
-Campanis_cum
 Campanisque
 Campano
 Campanoque
@@ -7682,7 +7607,6 @@ Cappadociam
 Cappadociaque
 Cappadocis
 Cappadocum
-Cappadocum_ab
 Cappadocumque
 Cappadocumue
 Cappadocus
@@ -7737,7 +7661,6 @@ Capye
 Capyi
 Capyis
 Capyn
-Capyn_sed
 Capyos
 Capys
 Car
@@ -8249,9 +8172,7 @@ Catium
 Catius
 Catius
 Cato
-Cato_pace
 Catone
-Catone_quaestor
 Catonem
 Catones
 Catonesque
@@ -8356,7 +8277,6 @@ Caunii
 Cauniis
 Caunios
 Caunis
-Caunites_
 Cauno
 Caunos
 Caunum
@@ -8380,7 +8300,6 @@ Cauoque
 Caycos
 Caycus
 Caystri
-Caystri_
 Caystrius
 Caystro
 Caystros
@@ -8497,12 +8416,10 @@ Celtibe
 Celtiber
 Celtiberarum
 Celtiberi
-Celtiberi_peruenit
 Celtiberia
 Celtiberiae
 Celtiberiam
 Celtibericam
-Celtiberice_
 Celtiberico
 Celtibericus
 Celtiberis
@@ -8737,7 +8654,6 @@ Cereremque
 Cereri
 Cererique
 Cereris
-Cereris_nam
 Cererisque
 Ceres
 Ceresque
@@ -8876,14 +8792,12 @@ Chalcidicam
 Chalcidicas
 Chalcidicensi
 Chalcidicis
-Chalcidicis_
 Chalcidico
 Chalcidicos
 Chalcidicum
 Chalcidis
 Chalcidisque
 Chalcidos
-Chalcioecon_Mineruae
 Chalcioicos
 Chalciope
 Chalciopen
@@ -9041,7 +8955,6 @@ Chelidonem
 Chelidoniae
 Chelidoniarum
 Chelidonias
-Chelidonias_promunturium
 Chelidonis
 Chelidonisque
 Chelis
@@ -9076,7 +8989,6 @@ Cheru
 Cherusca
 Cheruscas
 Cherusci
-Cherusci_gentes
 Cheruscis
 Cheruscorum
 Cheruscos
@@ -9103,7 +9015,6 @@ Chimaro
 Chimera
 Chimerion
 Chio
-Chio_trai
 Chion
 Chiona
 Chione
@@ -9591,7 +9502,6 @@ Ciuile
 Ciuilem
 Ciuili
 Ciuilis
-Ciuis_utrumque
 Cizigasque
 Cla
 Cladi
@@ -9642,7 +9552,6 @@ Clau
 Claud
 Claudi
 Claudia
-Claudia_fuit
 Claudiae
 Claudiai
 Claudiam
@@ -9685,7 +9594,6 @@ Cle
 Clean
 Cleander
 Cleandri
-Cleandri_prae
 Cleandro
 Cleandrum
 Cleant
@@ -9829,7 +9737,6 @@ Clodios
 Clodiu
 Clodium
 Clodius
-Clodius_neque
 Cloe
 Cloelia
 Cloeliae
@@ -9963,7 +9870,6 @@ Cnidon
 Cnidos
 Cnidum
 Cnidus
-Cnidus_nomen
 Cnosia
 Cnosiacae
 Cnosiacaeque
@@ -9982,7 +9888,6 @@ Coa
 Coacon
 Coae
 Coastes
-Cobiomago_qui
 Cobulatum
 Coc
 Cocalidum
@@ -10076,7 +9981,6 @@ Colchidis
 Colchidos
 Colchinium
 Colchis
-Colchis_geminas
 Colchisque
 Colcho
 Colchorum
@@ -10152,7 +10056,6 @@ Colubraria
 Columba
 Columbinum
 Columella
-Columen_id
 Columna
 Columnae
 Columnam
@@ -10362,7 +10265,6 @@ Coos
 Copae
 Copaidem
 Cophen
-Cophen_nam
 Cophes
 Copheta
 Cophete
@@ -10525,8 +10427,6 @@ Corn
 Corne
 Corneli
 Cornelia
-Cornelia_intellegebant
-Cornelia_non
 Corneliae
 Corneliam
 Corneliana
@@ -10643,7 +10543,6 @@ Coruncanius
 Coruo
 Corus
 Coruum
-Coruum_
 Coruus
 Corui
 Coruin
@@ -10749,7 +10648,6 @@ Cotoneo
 Cotoneum
 Cotonium
 Cotta
-Cotta_populum
 Cottae
 Cottaeque
 Cottam
@@ -10887,7 +10785,6 @@ Cremonensi
 Cremonensibus
 Cremonensis
 Cremonensium
-Cremonensium_
 Cremonis
 Cremu
 Cremuti
@@ -10946,7 +10843,6 @@ Cretenses
 Cretensi
 Cretensibus
 Cretensis
-Cretensis_
 Cretensium
 Creteque
 Cretera
@@ -10971,7 +10867,6 @@ Creticus
 Cretum
 Creu
 Creusa
-Creusa_Thespiensium
 Creusae
 Creusam
 Cri
@@ -11421,7 +11316,6 @@ Cygnum
 Cygnus
 Cyl
 Cylaraba
-Cylarabim_gymna
 Cylindrus
 Cylipenum
 Cyllanicum
@@ -11492,10 +11386,8 @@ Cynistore
 Cynocephalas
 Cynos
 Cynosarges
-Cynosarges_templum
 Cynoscephalae
 Cynoscephalas
-Cynossema_ita
 Cynosura
 Cynosurae
 Cynosuram
@@ -11786,7 +11678,6 @@ Danai
 Danaides
 Danaidum
 Danais
-Danais_comprime
 Danao
 Danaorum
 Danaos
@@ -11876,7 +11767,6 @@ Dardanum
 Dardanus
 Darden
 Darei
-Darei_filia
 Dareium
 Daren
 Dareo
@@ -11973,7 +11863,6 @@ Decembre
 Decembrem
 Decembres
 Decembri
-Decembri_
 Decembribus
 Decembris
 Decembrium
@@ -12037,7 +11926,6 @@ Deiota
 Deiotari
 Deiotariana
 Deiotaro
-Deiotaro_
 Deiotarum
 Deiotarus
 Deip
@@ -12108,7 +11996,6 @@ Delphina
 Delphini
 Delphinus
 Delphis
-Delphis_quantum
 Delphorum
 Delphos
 Delphosque
@@ -12319,10 +12206,8 @@ Diamque
 Dian
 Diana
 Dianae
-Dianae_
 Dianai
 Dianam
-Dianam_
 Dianaque
 Diania
 Dianio
@@ -12435,7 +12320,6 @@ Dimissus
 Dinaea
 Dinaeae
 Dinaeam
-Dinaeam_quae
 Dinarchi
 Dinarchus
 Dindyma
@@ -12612,7 +12496,6 @@ Dircen
 Dircenque
 Dirces
 Diri
-Dirim_hoc
 Diris
 Dis
 Disciplina
@@ -12645,7 +12528,6 @@ Diuiciaci
 Diuiciaco
 Diuiciacum
 Diuiciacus
-Diuiciacus_nam
 Diuico
 Diuitem
 Diuites
@@ -12867,7 +12749,6 @@ Druentia
 Druentiam
 Druentiano
 Druidae
-Druidae_ita
 Druidas
 Drumias
 Druncianus
@@ -13533,18 +13414,15 @@ Epicureis
 Epicureo
 Epicureorum
 Epicureos
-Epicureosque_nam
 Epicureum
 Epicureus
 Epicuri
-Epicuri_ita
 Epicuriis
 Epicurio
 Epicuro
 Epicuron
 Epicurum
 Epicurus
-Epicurus_hoc
 Epicydae
 Epicyde
 Epicydem
@@ -13568,7 +13446,6 @@ Epidaurios
 Epidaurium
 Epidaurius
 Epidauro
-Epidauro_
 Epidaurum
 Epidaurus
 Epidicazomenon
@@ -13735,7 +13612,6 @@ Eretricum
 Eretrienses
 Eretriis
 Eretum
-Eretum_ac
 Ergasilus
 Ergennaque
 Ergetiumque
@@ -13795,7 +13671,6 @@ Erinyas
 Erinyes
 Erinyn
 Erinys
-Erinys_ira
 Erip
 Eripere
 Eriphy
@@ -13960,7 +13835,6 @@ Etruscis
 Etrusco
 Etruscorum
 Etruscos
-Etruscos_eos
 Etruscum
 Etruscus
 Etrusco
@@ -14164,7 +14038,6 @@ Eunucho
 Eunuchum
 Eunuchus
 Eunus
-Eunus_magnitudo
 Euo
 Euodus
 Euomeret
@@ -14225,7 +14098,6 @@ Euripide
 Euripidem
 Euripiden
 Euripides
-Euripides_
 Euripideum
 Euripidi
 Euripidis
@@ -14240,7 +14112,6 @@ Euris
 Euro
 Euromensium
 Europa
-Europa_distat
 Europae
 Europaei
 Europaeis
@@ -14250,7 +14121,6 @@ Europam
 Europamque
 Europe
 Europen
-Europen_prima
 Europensibus
 Europes
 Europum
@@ -14537,7 +14407,6 @@ Falern
 Falerna
 Falernae
 Falernas
-Falernas_
 Falerni
 Falernis
 Falerno
@@ -14788,7 +14657,6 @@ Fica
 Ficana
 Ficanaque
 Ficedulensibus
-Ficelias_
 Fici
 Ficolensi
 Fictor
@@ -14877,8 +14745,6 @@ Flaccoque
 Flaccorum
 Flaccum
 Flaccus
-Flaccus_is
-Flaccus_legati
 Flam
 Flami
 Flamin
@@ -14898,7 +14764,6 @@ Flaminio
 Flaminium
 Flaminiumque
 Flaminius
-Flaminius_sed
 Flaminiusque
 Flamma
 Flammae
@@ -15110,7 +14975,6 @@ Fregellanos
 Fregellanum
 Fregellanus
 Fregellas
-Fregellas_Segninorum
 Fregellasque
 Fregellis
 Fregenae
@@ -15125,7 +14989,6 @@ Frentanum
 Frentanus
 Frentinum
 Frenumque
-Fretum_
 Fri
 Frigiis
 Frigori
@@ -15199,7 +15062,6 @@ Fulciniano
 Fulcinianum
 Fulcinium
 Fulcinius
-Fulcinius_multa
 Fulge
 Fulgin
 Fulginate
@@ -15286,7 +15148,6 @@ Furnique
 Furnium
 Furnius
 Furor
-Furor_
 Furores
 Furoris
 Furorque
@@ -15347,7 +15208,6 @@ Gabinio
 Gabiniorum
 Gabinis
 Gabinium
-Gabinium_tua
 Gabinius
 Gabino
 Gabinorum
@@ -15476,9 +15336,7 @@ Gallam
 Galle
 Galli
 Gallia
-Gallia_haud
 Galliae
-Galliae_nam
 Galliaeque
 Galliam
 Galliaque
@@ -15500,14 +15358,12 @@ Gallicanorum
 Gallicanum
 Gallicanus
 Gallicarum
-Gallicarum_Lissi
 Gallicas
 Gallice
 Gallici
 Gallicis
 Gallicisque
 Gallico
-Gallico_Alauda
 Gallicorum
 Gallicos
 Gallicum
@@ -15544,14 +15400,10 @@ Gallograecum
 Galloni
 Gallonio
 Gallonium
-Gallonium_
 Gallonius
 Gallorum
-Gallorum_
-Gallorum_Balanus
 Gallorumque
 Gallos
-Gallos_ad
 Gallosque
 Gallu
 Gallum
@@ -15637,7 +15489,6 @@ Gargettius
 Gargi
 Gargilianum
 Gargilius
-Gargilius_qui
 Garnae
 Garun
 Garunna
@@ -15883,7 +15734,6 @@ Gestatus
 Get
 Geta
 Getae
-Getae_
 Getaeque
 Getam
 Getarum
@@ -16186,7 +16036,6 @@ Grae
 Graeanque
 Graec
 Graeca
-Graeca_oriundi
 Graecae
 Graecaeque
 Graecam
@@ -16203,11 +16052,7 @@ Graecei
 Graeceio
 Graeceque
 Graeci
-Graeci_incertum
-Graeci_misit
-Graeci_quid
 Graecia
-Graecia_
 Graeciae
 Graeciaeque
 Graeciam
@@ -16228,7 +16073,6 @@ Graecoque
 Graecorum
 Graecorum
 Graecos
-Graecos_bea
 Graecosque
 Graecostasi
 Graecula
@@ -16249,7 +16093,6 @@ Gragi
 Grai
 Graia
 Graiae
-Graiae_quis
 Graiaeque
 Graiam
 Graiamque
@@ -16294,7 +16137,6 @@ Gratia
 Gratiae
 Gratiam
 Gratiana
-Gratiana_etenim
 Gratianus
 Gratiarum
 Gratidiam
@@ -16375,7 +16217,6 @@ Gyaros
 Gyarum
 Gyas
 Gyen
-Gyen_et
 Gygae
 Gygaeo
 Gyge
@@ -16404,7 +16245,6 @@ Habinnam
 Habinnas
 Habita
 Habiti
-Habiti_mater
 Habito
 Habitu
 Habitum
@@ -16566,7 +16406,6 @@ Hamilcare
 Hamilcarem
 Hamilcari
 Hamilcaris
-Hamilcaris_castra
 Hamilconi
 Hamillus
 Hamis
@@ -16594,11 +16433,8 @@ Han
 Hanni
 Hanniba
 Hannibal
-Hannibal_ita
 Hannibale
-Hannibale_et
 Hannibalem
-Hannibalem_nam
 Hannibalemne
 Hannibalemque
 Hannibales
@@ -16707,7 +16543,6 @@ Hecaergen
 Hecaergon
 Hecaergos
 Hecale
-Hecale_uterque
 Hecales
 Hecatae
 Hecataeaque
@@ -16722,7 +16557,6 @@ Hecateidas
 Hecateidos
 Hecaten
 Hecates
-Hecates_
 Hecatom
 Hecatompylon
 Hecatompylos
@@ -16783,7 +16617,6 @@ Heio
 Heiorum
 Heium
 Heius
-Heius_etenim
 Hel
 Helai
 Hele
@@ -16973,7 +16806,6 @@ Heracleae
 Heracleam
 Heracleamque
 Heracleensem
-Heracleensi_iam
 Heraclei
 Heracleo
 Heracleon
@@ -17019,7 +16851,6 @@ Heraclitus
 Heraclium
 Heraclius
 Herae
-Heraea_Peloponnesi
 Heraeam
 Heraean
 Heraeorum
@@ -17055,7 +16886,6 @@ Herculea
 Herculeae
 Herculeaeque
 Herculeam
-Herculeam_ueteres
 Herculeamque
 Herculeas
 Herculeasque
@@ -17191,7 +17021,6 @@ Hermunduros
 Hermus
 Hernica
 Hernici
-Hernici_nam
 Hernicique
 Hernicis
 Hernico
@@ -17214,7 +17043,6 @@ Herodianus
 Herodis
 Herodorum
 Herodorus
-Herodorus_princeps
 Herodoti
 Herodoto
 Herodotum
@@ -17245,7 +17073,6 @@ Hesiodi
 Hesiodo
 Hesiodum
 Hesiodus
-Hesiodus_nam
 Hesion
 Hesiona
 Hesionae
@@ -17406,7 +17233,6 @@ Himilconi
 Himilconis
 Hionios
 Hip
-Hippacritanus_Mut
 Hippalci
 Hippalcum
 Hippalmon
@@ -17521,7 +17347,6 @@ Hirpinorum
 Hirpinos
 Hirpinum
 Hirpinus
-Hirpinus_totum
 Hirpos
 Hirr
 Hirri
@@ -17557,12 +17382,9 @@ Hispanam
 Hispanas
 Hispane
 Hispani
-Hispani_
 Hispania
-Hispania_cum
 Hispaniae
 Hispaniam
-Hispaniam_et
 Hispaniamque
 Hispaniaque
 Hispaniarum
@@ -17570,7 +17392,6 @@ Hispanias
 Hispanico
 Hispanicum
 Hispaniense
-Hispaniense_nam
 Hispaniensem
 Hispanienses
 Hispaniensi
@@ -17579,7 +17400,6 @@ Hispaniensis
 Hispaniis
 Hispanique
 Hispanis
-Hispanis_et
 Hispanisque
 Hispano
 Hispanorum
@@ -17727,7 +17547,6 @@ Hortensiorum
 Hortensium
 Hortensiumque
 Hortensius
-Hortensius_quo
 Hortinos
 Hortulo
 Hortulorum
@@ -18046,7 +17865,6 @@ Ianne
 Iano
 Ianos
 Ianthe
-Ianthe_
 Ianthen
 Ianthida
 Ianthidos
@@ -18116,7 +17934,6 @@ Iasius
 Iasiusque
 Iaso
 Iason
-Iason_
 Iasona
 Iasone
 Iasonem
@@ -18230,7 +18047,6 @@ Idalios
 Idalium
 Idam
 Idan
-Idan_
 Idaque
 Idas
 Idasmenus
@@ -18424,7 +18240,6 @@ Illyrii
 Illyriis
 Illyrio
 Illyriorum
-Illyriorum_Tralles
 Illyriorumque
 Illyrios
 Illyriosque
@@ -18451,7 +18266,6 @@ Imbrasus
 Imbresque
 Imbreus
 Imbrex
-Imbrinium_ita
 Imbris
 Imbro
 Imbros
@@ -18630,7 +18444,6 @@ Inregillo
 Ins
 Insa
 Insania
-Insanorumque_nam
 Insanos
 Insanum
 Insepultus
@@ -18723,7 +18536,6 @@ Iolcum
 Iole
 Iolen
 Ioles
-Iolitanae_
 Iollae
 Iollam
 Iollan
@@ -18995,9 +18807,7 @@ Italarum
 Italas
 Itali
 Italia
-Italia_non
 Italiae
-Italiae_fluuius
 Italiaeque
 Italiam
 Italiamque
@@ -19126,7 +18936,6 @@ Iuleis
 Iuleo
 Iuleos
 Iuli
-Iuli_
 Iulia
 Iuliade
 Iuliae
@@ -19173,7 +18982,6 @@ Iunc
 Iunciano
 Iunco
 Iuncto
-Iuncum_idem
 Iuni
 Iunia
 Iuniae
@@ -19209,7 +19017,6 @@ Iup
 Iupiter
 Iuppi
 Iuppiter
-Iuppiter_
 Iura
 Iuram
 Iuribus
@@ -19393,7 +19200,6 @@ Lacedaemo
 Lacedaemon
 Lacedaemona
 Lacedaemone
-Lacedaemone_promouit
 Lacedaemonem
 Lacedaemones
 Lacedaemoni
@@ -19453,7 +19259,6 @@ Laconicus
 Laconide
 Laconis
 Laconum
-Laconum_in
 Lacr
 Lactantem
 Lacteus
@@ -19495,12 +19300,10 @@ Laelapem
 Laeli
 Laelia
 Laeliae
-Laeliam_facilius
 Laelianus
 Laelii
 Laeliis
 Laelio
-Laelio_nam
 Laeliorum
 Laelios
 Laelium
@@ -19561,7 +19364,6 @@ Laeuini
 Laeuino
 Laeuinum
 Laeuinus
-Laeuinus_ei
 Laeuium
 Laeuius
 Laeuos
@@ -19624,7 +19426,6 @@ Lamiarum
 Lamias
 Laminitano
 Lamo
-Lamo_
 Lamp
 Lampadione
 Lampadionem
@@ -19687,7 +19488,6 @@ Lanuuini
 Lanuuinis
 Lanuuinosque
 Lanuuio
-Lanuuio_ad
 Lanuuium
 Lanuui
 Lanuuiana
@@ -19802,7 +19602,6 @@ Larisaeorum
 Larisaeos
 Larisaeus
 Larisam
-Larisamque_non
 Larisaque
 Larissa
 Larissae
@@ -19909,7 +19708,6 @@ Latinius
 Latino
 Latinoque
 Latinorum
-Latinorum_quae
 Latinorumque
 Latinos
 Latinum
@@ -19921,7 +19719,6 @@ Latioque
 Latios
 Latiosque
 Latium
-Latium_L
 Latiumque
 Latius
 Latmia
@@ -20008,7 +19805,6 @@ Laurolauinio
 Laurolauinium
 Lauronem
 Lauronensia
-Laurum_Picenti
 Laurus
 Laus
 Lause
@@ -20077,7 +19873,6 @@ Lecythion
 Led
 Leda
 Ledae
-Ledae_cum
 Ledaea
 Ledaeam
 Ledaeas
@@ -20432,7 +20227,6 @@ Liberalis
 Liberalitas
 Liberam
 Liberi
-Liberi_ut
 Liberique
 Libero
 Liberoso
@@ -20523,7 +20317,6 @@ Libycusque
 Libye
 Libyen
 Libyes
-Libyes_nam
 Libyn
 Libyrnis
 Libys
@@ -20609,7 +20402,6 @@ Liguria
 Liguriae
 Liguriam
 Liguribus
-Liguribus_ut
 Liguricum
 Ligurinas
 Ligurino
@@ -20619,7 +20411,6 @@ Liguris
 Ligurium
 Ligurius
 Ligurum
-Ligurum_nam
 Ligurumque
 Ligus
 Ligusci
@@ -20996,7 +20787,6 @@ Luculle
 Luculleas
 Lucullei
 Luculli
-Luculli_nam
 Lucullis
 Lucullo
 Lucullorum
@@ -21144,7 +20934,6 @@ Ly
 Lyae
 Lyaei
 Lyaeo
-Lyaeo_
 Lyaeos
 Lyaeum
 Lyaeus
@@ -21196,7 +20985,6 @@ Lychnidus
 Lyci
 Lycia
 Lyciae
-Lyciae_Limyra
 Lyciaeque
 Lyciam
 Lyciaque
@@ -21249,7 +21037,6 @@ Lycormae
 Lycormam
 Lycormas
 Lycortas
-Lycortas_
 Lycos
 Lycotae
 Lycotas
@@ -21307,7 +21094,6 @@ Lync
 Lyncea
 Lyncei
 Lynceo
-Lynceo_
 Lyncestem
 Lyncestes
 Lyncestius
@@ -21384,7 +21170,6 @@ MARSUPPIUM
 MEDICA
 MEDICINA
 MINOTAURUS
-Mabog_ibi
 Mac
 Maca
 Macae
@@ -21439,7 +21224,6 @@ Macedonio
 Macedonis
 Macedonium
 Macedonum
-Macedonum_phalangem
 Macedonumque
 Macella
 Macellum
@@ -21695,7 +21479,6 @@ Magni
 Magnique
 Magno
 Magnoque
-Magnos_ita
 Magnum
 Magnumque
 Magnus
@@ -21823,7 +21606,6 @@ Mamertinorum
 Mamertinos
 Mamertinum
 Mamertinus
-Mamertinus_omnes
 Mami
 Mamilia
 Mamiliam
@@ -22018,7 +21800,6 @@ Marcique
 Marcium
 Marcius
 Marco
-Marco_et
 Marcoduro
 Marcolica
 Marcoman
@@ -22149,9 +21930,7 @@ Maronia
 Maronillae
 Maronis
 Maronitarum
-Maronitarum_Salen
 Maronitas
-Maronitas_
 Maronites
 Maronitis
 Marpesia
@@ -22221,7 +22000,6 @@ Martialium
 Martiam
 Martiarum
 Martias
-Martias_
 Marticolamque
 Marticolis
 Martigena
@@ -22306,7 +22084,6 @@ Massiliensibus
 Massiliensibusque
 Massiliensis
 Massiliensium
-Massiliensium_ad
 Massiliota
 Massilitanis
 Massiua
@@ -22389,7 +22166,6 @@ Matris
 Matrona
 Matronae
 Matronianum
-Mattiacas_quo
 Mattiaci
 Mattiacis
 Mattiaco
@@ -22421,7 +22197,6 @@ Maureta
 Mauretania
 Mauretaniae
 Mauretaniam
-Mauretaniam_Baga
 Mauretaniarum
 Mauretanias
 Mauri
@@ -22441,7 +22216,6 @@ Mauritania
 Mauritaniae
 Mauro
 Maurorum
-Maurorum_unde
 Mauros
 Maurosque
 Maurum
@@ -22515,7 +22289,6 @@ Mazaetullo
 Mazaetullus
 Mazaeum
 Mazaeus
-Mazaeus_cum
 Mazagas
 Maziris
 Mazzarae
@@ -22617,7 +22390,6 @@ Megalesiacis
 Megalesibus
 Megalesion
 Megalesium
-Megalesium_aediles
 Megalia
 Megallae
 Megalo
@@ -22859,7 +22631,6 @@ Menander
 Menandre
 Menandreae
 Menandri
-Menandri_quis
 Menandrist
 Menandro
 Menandrum
@@ -22903,7 +22674,6 @@ Menelaon
 Menelaum
 Menelaus
 Meneni
-Menenianum_adeo
 Menenio
 Menenios
 Menenium
@@ -23021,7 +22791,6 @@ Merme
 Mermeros
 Mero
 Meroe
-Meroe_sic
 Meroen
 Meroida
 Meroide
@@ -23175,7 +22944,6 @@ Metellorum
 Metellos
 Metellum
 Metellus
-Metellus_circumfusi
 Metellum
 Meteonem
 Methimannum
@@ -23310,7 +23078,6 @@ Mileto
 Miletopolim
 Miletopolis
 Miletos
-Miletos_ad
 Miletum
 Miletus
 Mili
@@ -23324,8 +23091,6 @@ Milite
 Millonius
 Millonius
 Milo
-Milo_de
-Milo_est
 Milogonis
 Milon
 Milone
@@ -23336,7 +23101,6 @@ Miloniani
 Milonianis
 Miloniano
 Milonis
-Milonis_dicam
 Milonius
 Milphidippa
 Milphidisce
@@ -23352,7 +23116,6 @@ Miltiadis
 Miltopes
 Milyada
 Milyadum
-Milyadum_
 Milyae
 Milyas
 Mimallida
@@ -23389,9 +23152,7 @@ Mineruamque
 Mineruia
 Mineruio
 Minerua
-Minerua_
 Mineruae
-Mineruae_
 Mineruales
 Mineruam
 Mineruaque
@@ -23422,7 +23183,6 @@ Minoide
 Minoidi
 Minoidos
 Minois
-Minois_
 Minonis
 Minoo
 Minor
@@ -23482,7 +23242,6 @@ Miseni
 Misenis
 Miseno
 Misenum
-Misenum_nam
 Misenus
 Miserandam
 Miseria
@@ -23809,7 +23568,6 @@ Mucio
 Muciorum
 Mucios
 Mucium
-Mucium_non
 Mucius
 Mugillano
 Mugillanum
@@ -24224,14 +23982,12 @@ Naraggara
 Narbo
 Narbonae
 Narbone
-Narbone_quae
 Narbonem
 Narbonense
 Narbonensem
 Narbonenses
 Narbonensi
 Narbonensis
-Narbonensis_est
 Narboni
 Narcissi
 Narcissique
@@ -24304,7 +24060,6 @@ Nasso
 Nasson
 Nassum
 Nastae
-Nastam_seruolus
 Nasu
 Natalem
 Natali
@@ -24350,7 +24105,6 @@ Naupacti
 Naupacto
 Naupactoo
 Naupactum
-Naupactum_
 Naupli
 Naupliades
 Nauplii
@@ -24421,7 +24175,6 @@ Neapolitano
 Neapolitanorum
 Neapolitanos
 Neapolitanum
-Neapolitanum_eo
 Neapolitanus
 Nearchi
 Nearcho
@@ -24478,7 +24231,6 @@ Nemeaeu
 Nemeaeum
 Nemeaeus
 Nemeam
-Nemeam_amnis
 Nemee
 Nemeeius
 Nemeen
@@ -24539,7 +24291,6 @@ Nepheleidos
 Nepheleque
 Nepherim
 Nepos
-Nepos_nam
 Nepote
 Nepotem
 Nepoti
@@ -24724,7 +24475,6 @@ Nicaea
 Nicaeae
 Nicaeaeque
 Nicaeam
-Nicaeam_is
 Nicaeense
 Nicaeenses
 Nicaeensibus
@@ -24732,7 +24482,6 @@ Nicaeensis
 Nicaeensium
 Nicaei
 Nicander
-Nicander_
 Nicandri
 Nicandro
 Nicandrum
@@ -24933,7 +24682,6 @@ Nobi
 Nobili
 Nobilio
 Nobilior
-Nobilior_secundae
 Nobiliore
 Nobiliorem
 Nobiliori
@@ -24963,7 +24711,6 @@ Nol
 Nola
 Nolae
 Nolam
-Nolam_concurrerunt
 Nolamque
 Nolana
 Nolanam
@@ -25220,13 +24967,10 @@ Numidam
 Numidarum
 Numidarumque
 Numidas
-Numidas_extremi
-Numidas_id
 Numidasque
 Numidi
 Numidia
 Numidiae
-Numidiae_Maesuli
 Numidiaeque
 Numidiam
 Numidica
@@ -25384,7 +25128,6 @@ Oceanitidem
 Oceano
 Oceanoque
 Oceanum
-Oceanum_
 Oceanumque
 Oceanus
 Oceanusque
@@ -25765,7 +25508,6 @@ Olympionices
 Olympiorum
 Olympios
 Olympium
-Olympium_Iouis
 Olympius
 Olympo
 Olympon
@@ -26265,7 +26007,6 @@ Otreos
 Otrerae
 Otreres
 Ottolobum
-Ottolobum_id
 Oua
 Oufente
 Oufentina
@@ -26296,7 +26037,6 @@ Oxarte
 Oxarten
 Oxartes
 Oxathres
-Oxathrisque_
 Oxii
 Oxionas
 Oxo
@@ -26412,7 +26152,6 @@ Padaeus
 Padauium
 Padi
 Pado
-Pado_antiqua
 Paduam
 Padum
 Padumque
@@ -26716,7 +26455,6 @@ Panaetii
 Panaetio
 Panaetium
 Panaetius
-Panaetius_uixit
 Panaetoli
 Panaetolico
 Panaetolicum
@@ -26970,7 +26708,6 @@ Parasceuasticon
 Parasi
 Parasino
 Parasito
-Parastrymonia_sunt
 Paratonio
 Parc
 Parca
@@ -27146,7 +26883,6 @@ Parthina
 Parthini
 Parthinorum
 Parthinos
-Parthinos_
 Parthinosque
 Parthis
 Partho
@@ -27421,7 +27157,6 @@ Pelasgo
 Pelasgorum
 Pelasgos
 Pelasgum
-Pelasgum_
 Pelasgus
 Pelates
 Pelea
@@ -27467,7 +27202,6 @@ Pelii
 Pelinaeo
 Pelinnaeum
 Pelio
-Pelio_
 Pelion
 Pelium
 Pelius
@@ -27630,7 +27364,6 @@ Peraea
 Peraeae
 Peraeam
 Peraean
-Peraean_regio
 Peranna
 Peranthi
 Perbibesiam
@@ -27696,7 +27429,6 @@ Pergamo
 Pergamon
 Pergamos
 Pergamum
-Pergamum_ibi
 Pergamus
 Pergus
 Peri
@@ -27801,10 +27533,8 @@ Persaeasque
 Persaeus
 Persam
 Persarum
-Persarum_superaret
 Persarumque
 Persas
-Persas_
 Perse
 Persea
 Perseaque
@@ -27829,7 +27559,6 @@ Persequitur
 Perses
 Perseum
 Perseus
-Perseus_dexterioribus
 Persi
 Persia
 Persianas
@@ -27849,7 +27578,6 @@ Persicos
 Persicum
 Persicus
 Persida
-Persida_circa
 Persidaque
 Perside
 Persidem
@@ -28357,7 +28085,6 @@ Philippeo
 Philippeos
 Philippeum
 Philippi
-Philippi_exigerent
 Philippica
 Philippicae
 Philippicarum
@@ -28376,7 +28103,6 @@ Philipporum
 Philippos
 Philippu
 Philippum
-Philippum_
 Philippus
 Philiscum
 Philiscus
@@ -28472,7 +28198,6 @@ Philopatore
 Philopatorem
 Philopatoris
 Philopoemen
-Philopoemen_
 Philopoemene
 Philopoemenem
 Philopoemenen
@@ -28576,7 +28301,6 @@ Phoc
 Phocaea
 Phocaeae
 Phocaeam
-Phocaeensium_
 Phocaeis
 Phocaeus
 Phocaica
@@ -28629,7 +28353,6 @@ Phoebes
 Phoebeum
 Phoebeus
 Phoebi
-Phoebi_
 Phoebigenae
 Phoebigenam
 Phoebique
@@ -28882,7 +28605,6 @@ Pictones
 Pictonibus
 Pictonum
 Pictor
-Pictor_Pictor
 Pictore
 Pictorem
 Pictoreum
@@ -29155,7 +28877,6 @@ Placenti
 Placentia
 Placentiae
 Placentiam
-Placentiam_nam
 Placentina
 Placentini
 Placentinis
@@ -29185,7 +28906,6 @@ Plancio
 Plancis
 Plancium
 Plancius
-Plancius_de
 Planco
 Plancoque
 Plancos
@@ -29209,13 +28929,11 @@ Plateam
 Platean
 Plateis
 Plato
-Plato_tamen
 Platon
 Platona
 Platonas
 Platone
 Platonem
-Platonem_
 Platones
 Platoni
 Platonica
@@ -29399,7 +29117,6 @@ Poenina
 Poeninae
 Poeninas
 Poeninis
-Poenino_atque
 Poeninum
 Poenique
 Poenis
@@ -29413,11 +29130,9 @@ Poenorum
 Poenos
 Poenosque
 Poenulo
-Poenulus_scis
 Poenum
 Poenumque
 Poenus
-Poenus_ad
 Poeteli
 Poetelio
 Poetelium
@@ -29828,7 +29543,6 @@ Portunum
 Portunus
 Portus
 Porum
-Porum_nam
 Porus
 Posi
 Posiden
@@ -29967,7 +29681,6 @@ Prahates
 Pramnio
 Prasiana
 Prasiane
-Prasias_continentis
 Prasiorum
 Prasios
 Pratitae
@@ -30009,7 +29722,6 @@ Priamidas
 Priamide
 Priamiden
 Priamides
-Priamides_absit
 Priamique
 Priamo
 Priamoque
@@ -30195,7 +29907,6 @@ Pronoean
 Propaniso
 Propanisus
 Properti
-Properti_
 Propertii
 Propertium
 Propertius
@@ -30328,7 +30039,6 @@ Psy
 Psychae
 Psyche
 Psychen
-Psychen_
 Psyches
 Psylli
 Psyllis
@@ -30435,7 +30145,6 @@ Pudens
 Pudente
 Pudentem
 Pudentilla
-Pudentilla_patietur
 Pudentillae
 Pudentillam
 Pudentis
@@ -30483,9 +30192,7 @@ Pulydamantis
 Pulypus
 Puni
 Punica
-Punica_septuaginta
 Punicae
-Punicae_
 Punicam
 Punicana
 Punicanos
@@ -30496,11 +30203,9 @@ Puniceo
 Punici
 Punicis
 Punico
-Punico_
 Punicorum
 Punicos
 Punicum
-Punicum_
 Punicumque
 Punicus
 Puniens
@@ -30546,8 +30251,6 @@ Puteolanum
 Puteolanus
 Puteoli
 Puteolis
-Puteolis_et
-Puteolis_iam
 Puteolorum
 Puteolos
 Putitii
@@ -30808,8 +30511,6 @@ Quinctilius
 Quinctio
 Quinctium
 Quinctius
-Quinctius_nihil
-Quinctius_quo
 Quindecim
 Quinquatria
 Quinquatribus
@@ -30912,7 +30613,6 @@ Rachiae
 Raciliam
 Racilio
 Racilium
-Racilium_nam
 Racilius
 Rada
 Radalo
@@ -31014,7 +30714,6 @@ Regem
 Reges
 Regi
 Regia
-Regia_et
 Regiam
 Regibus
 Regiensis
@@ -31075,7 +30774,6 @@ Remo
 Remorum
 Remorumque
 Remos
-Remos_
 Remu
 Remuli
 Remulo
@@ -31179,7 +30877,6 @@ Rhipaeos
 Rhipeque
 Rhipeus
 Rhium
-Rhium_fauces
 Rhizonitas
 Rho
 Rhoan
@@ -31187,7 +30884,6 @@ Rhoas
 Rhoda
 Rhodam
 Rhodani
-Rhodani_pluribus
 Rhodano
 Rhodanum
 Rhodanumque
@@ -31218,7 +30914,6 @@ Rhodiosque
 Rhodis
 Rhodium
 Rhodius
-Rhodius_cum
 Rhodo
 Rhodon
 Rhodonem
@@ -31322,7 +31017,6 @@ Robusto
 Robustum
 Rodanum
 Rode
-Rodi_
 Rodia
 Rodien
 Rodienses
@@ -31338,9 +31032,7 @@ Rodum
 Rogatianum
 Rom
 Roma
-Roma_de
 Romae
-Romae_nam
 Romaene
 Romam
 Romamque
@@ -31354,11 +31046,8 @@ Romanarum
 Romanas
 Romane
 Romani
-Romani_adeo
-Romani_uacuas
 Romanique
 Romanis
-Romanis_quat
 Romanisque
 Romanius
 Romano
@@ -31367,7 +31056,6 @@ Romanor
 Romanorum
 Romanorumque
 Romanos
-Romanos_
 Romanosque
 Romanu
 Romanula
@@ -31375,7 +31063,6 @@ Romanulam
 Romanum
 Romanumque
 Romanus
-Romanus_adeo
 Romanusque
 Romaque
 Romen
@@ -31412,7 +31099,6 @@ Romulique
 Romulo
 Romulum
 Romulus
-Romulus_neque
 Romus
 Romuli
 Romyleae
@@ -31456,7 +31142,6 @@ Rubiconi
 Rubiconis
 Rubigo
 Rubos
-Rubra_ibi
 Rubrae
 Rubraesus
 Rubras
@@ -31650,7 +31335,6 @@ Sabinas
 Sabine
 Sabineium
 Sabini
-Sabini_
 Sabinianis
 Sabiniano
 Sabinique
@@ -31773,12 +31457,10 @@ Saguntinam
 Saguntinas
 Saguntini
 Saguntinis
-Saguntinis_necdum
 Saguntino
 Saguntinorum
 Saguntinos
 Saguntinum
-Saguntinum_et
 Saguntinus
 Sagunto
 Saguntos
@@ -31978,7 +31660,6 @@ Saluiano
 Saluid
 Saluio
 Saluitto
-Saluittones_
 Saluium
 Saluius
 Saluo
@@ -32046,8 +31727,6 @@ Samnitico
 Samniticum
 Samnitis
 Samnitium
-Samnitium_fuisse
-Samnitium_quad
 Samnitiumque
 Samnitum
 Samnium
@@ -32433,7 +32112,6 @@ Scaeuino
 Scaeuinus
 Scaeuo
 Scaeuola
-Scaeuola_hic
 Scaeuolae
 Scaeuolam
 Scaeuolarum
@@ -32505,7 +32183,6 @@ Scauro
 Scaurorum
 Scauros
 Scaurum
-Scaurum_unde
 Scaurumque
 Scaurus
 Sceledre
@@ -32698,7 +32375,6 @@ Scythasue
 Scythen
 Scythes
 Scythia
-Scythia_Tauros
 Scythiae
 Scythiaeque
 Scythiam
@@ -32734,7 +32410,6 @@ Sebastenam
 Sebastenorum
 Sebastiam
 Sebastopoli
-Sebastopolim_haec
 Sebennytico
 Seberritarum
 Sebethidis
@@ -33181,7 +32856,6 @@ Seruiliis
 Seruilio
 Seruiliorum
 Seruilios
-Seruilios_Cascas
 Seruilium
 Seruilius
 Seruio
@@ -33297,7 +32971,6 @@ Sibyllina
 Sibyllini
 Sibyllinis
 Sibyllinos
-Sibyrtio_nam
 Sic
 Sica
 Sicambros
@@ -33316,7 +32989,6 @@ Sicanios
 Sicanis
 Sicanium
 Sicano
-Sicano_
 Sicanorum
 Sicanos
 Sicca
@@ -33341,7 +33013,6 @@ Sicilia
 Siciliae
 Siciliaeque
 Siciliam
-Siciliam_et
 Siciliamque
 Siciliane
 Siciliense
@@ -33760,7 +33431,6 @@ Sittianorum
 Sittio
 Sittium
 Sittius
-Sittius_non
 Smer
 Smerde
 Smerden
@@ -33789,7 +33459,6 @@ Socratas
 Socrate
 Socratem
 Socraten
-Socraten_nam
 Socrates
 Socrati
 Socratica
@@ -33844,7 +33513,6 @@ Soloe
 Solon
 Solone
 Solonem
-Solonem_quamquam
 Solonemque
 Solones
 Solonio
@@ -33937,7 +33605,6 @@ Sosi
 Sosia
 Sosiae
 Sosiam
-Sosiam_
 Sosianum
 Sosianus
 Sosibio
@@ -34230,7 +33897,6 @@ Sthenelusue
 Stheni
 Sthenianum
 Sthenio
-Sthenio_quem
 Sthenium
 Sthenius
 Sthenium
@@ -34455,7 +34121,6 @@ Sublicium
 Submemmi
 Subori
 Subota
-Subota_insula
 Subotis
 Subrio
 Subrium
@@ -34722,7 +34387,6 @@ Sychaeio
 Sychaeo
 Sychaeum
 Sychaeus
-Sychaeus_
 Sycurio
 Sycurium
 Sydon
@@ -34795,7 +34459,6 @@ Syphace
 Syphacem
 Syphacemque
 Syphaci
-Syphaci_nec
 Syphacis
 Syphax
 Syr
@@ -34813,11 +34476,9 @@ Syracusanam
 Syracusanas
 Syracusani
 Syracusanis
-Syracusanis_
 Syracusano
 Syracusanorum
 Syracusanos
-Syracusanos_erant
 Syracusanum
 Syracusanus
 Syracusarum
@@ -35112,7 +34773,6 @@ Tarento
 Tarenton
 Tarentos
 Tarentum
-Tarentum_id
 Tarentumque
 Tarentus
 Tarichaeas
@@ -35160,7 +34820,6 @@ Tarquiniensium
 Tarquinii
 Tarquiniique
 Tarquiniis
-Tarquiniis_nam
 Tarquinio
 Tarquiniorum
 Tarquinios
@@ -35307,7 +34966,6 @@ Tauris
 Taurisci
 Tauriscum
 Tauro
-Tauroenta_quod
 Tauroin
 Tauromenita
 Tauromenitana
@@ -35441,7 +35099,6 @@ Teleontis
 Telephanen
 Telephanes
 Telephi
-Telephi_
 Telepho
 Telephon
 Telephum
@@ -35506,7 +35163,6 @@ Tempani
 Tempanio
 Tempanium
 Tempe
-Tempe_is
 Tempestas
 Tempestatibus
 Templa
@@ -35923,7 +35579,6 @@ Themisonis
 Themista
 Themisteas
 Themisti
-Themisti_nam
 Themisto
 Themistocle
 Themistoclea
@@ -36109,7 +35764,6 @@ Theseos
 Theseu
 Theseum
 Theseus
-Theseus_nisi
 Theseusque
 Theseus
 Thesidae
@@ -36181,7 +35835,6 @@ Thessalos
 Thessalosque
 Thessalum
 Thessalus
-Thessalus_
 Thessandrum
 Thessandrus
 Thestiadae
@@ -36265,7 +35918,6 @@ Thraces
 Thraci
 Thracia
 Thraciae
-Thraciae_et
 Thraciam
 Thraciaque
 Thraciarum
@@ -36283,7 +35935,6 @@ Thracium
 Thracius
 Thraco
 Thracum
-Thracum_
 Thracumque
 Thracus
 Thracum
@@ -36558,7 +36209,6 @@ Tiburno
 Tiburnus
 Tiburque
 Tiburs
-Tiburs_
 Tiburte
 Tiburtem
 Tiburtes
@@ -36586,7 +36236,6 @@ Tic
 Ticer
 Tichi
 Tichiunta
-Tichiunta_haec
 Tichos
 Ticida
 Ticidae
@@ -37046,7 +36695,6 @@ Traianopolis
 Traianum
 Traianus
 Tralles
-Tralles_Illyriorum
 Tralli
 Tralliani
 Trallianis
@@ -37165,7 +36813,6 @@ Tremelium
 Tremelius
 Tremulaue
 Tremuli
-Tremulus_hi
 Trepida
 Trepidantem
 Tres
@@ -37224,7 +36871,6 @@ Tridentini
 Tridentinis
 Tridentino
 Tridentis
-Trifanum_inter
 Trifernum
 Trifolinis
 Trifolinus
@@ -37279,7 +36925,6 @@ Triphylia
 Triphylian
 Triphylii
 Tripolim
-Tripolim_Scaeam
 Tripolin
 Tripolis
 Tripolitanum
@@ -37379,7 +37024,6 @@ Trogodytis
 Trogum
 Trogus
 Troia
-Troia_
 Troiad
 Troiade
 Troiades
@@ -37692,7 +37336,6 @@ Tyberim
 Tybri
 Tycha
 Tycham
-Tycham_nomina
 Tychio
 Tyde
 Tydea
@@ -37754,7 +37397,6 @@ Tyndaro
 Tyndarum
 Tyndarus
 Tyneta
-Tyneta_abest
 Tynetem
 Typhoe
 Typhoea
@@ -37904,10 +37546,8 @@ Ueientanus
 Ueiente
 Ueientem
 Ueientes
-Ueientes_nam
 Ueienti
 Ueientibus
-Ueientibus_iam
 Ueientique
 Ueientis
 Ueientium
@@ -38067,10 +37707,8 @@ Ulisippo
 Ulixe
 Ulixei
 Ulixem
-Ulixem_nam
 Ulixen
 Ulixes
-Ulixes_
 Ulixi
 Ulixis
 Ullam
@@ -38199,7 +37837,6 @@ Ursi
 Ursulus
 Uscana
 Uscanae
-Uscanam_Penestianae
 Uscanenses
 Usipetes
 Usipetibus
@@ -38307,7 +37944,6 @@ Ualetiacus
 Ualg
 Ualgi
 Ualgius
-Ualgius_apud
 Ualla
 Uallia
 Uandilios
@@ -38370,7 +38006,6 @@ Uaro
 Uaroque
 Uarr
 Uarro
-Uarro_nec
 Uarrone
 Uarronem
 Uarronemque
@@ -38606,7 +38241,6 @@ Uenulo
 Uenulum
 Uenulus
 Uenus
-Uenus_memento
 Uenusia
 Uenusiam
 Uenusina
@@ -38653,7 +38287,6 @@ Uercingetorige
 Uercingetorigem
 Uercingetorigis
 Uercingetorix
-Uercingetorix_conuocandos
 Uercondaridubno
 Uerconium
 Uere
@@ -38799,7 +38432,6 @@ Uestalibus
 Uestalis
 Uestalisque
 Uestalium
-Uestalium_si
 Uestam
 Uestamque
 Uestaque
@@ -39208,7 +38840,6 @@ Uoconi
 Uoconia
 Uoconiae
 Uoconiam
-Uoconiam_
 Uoconio
 Uoconius
 Uoconti
@@ -39652,7 +39283,6 @@ Zeugmate
 Zeuma
 Zeumate
 Zeusis
-Zeuxiaden_
 Zeuxidae
 Zeuxide
 Zeuxidem

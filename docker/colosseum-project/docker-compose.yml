@@ -47,8 +47,8 @@ services:
       - 8080:8080
     restart: always
     environment:
-      LUDUS_URL: http://ludus:8081
-      ARENA_URL: http://arena:8082
+      LUDUS_ENDPOINT: http://ludus:8081
+      ARENA_ENDPOINT: http://arena:8082
 
 volumes:
   data:

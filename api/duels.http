@@ -5,6 +5,16 @@
 
 ###
 
+# @name = resolveDuel
+# @prompt FirstGladiatorId
+# @prompt SecondGladiatorId
+POST http://{{host}}/duels/resolve
+    ?first_gladiator_id={{FirstGladiatorId}}
+    &second_gladiator_id={{SecondGladiatorId}}
+Content-Type: {{contentType}}
+
+###
+
 # @name = resolveRandomDuel
 POST http://{{host}}/duels/resolve/random
 Content-Type: {{contentType}}

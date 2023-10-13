@@ -1,6 +1,7 @@
 version: "3.9"
 
 services:
+  # Third-party applications
   database:
     image: mariadb:latest
     ports:
@@ -14,21 +15,18 @@ services:
       MARIADB_PASSWORD: ludus
       MARIADB_ROOT_PASSWORD: toor
   adminer:
-    image: adminer:latest
     depends_on:
       - database
+    image: adminer:latest
     ports:
       - 8100:8080
     restart: always
+
+  # Colosseum project applications
   arena:
     image: colosseum-project/arena:latest
     ports:
       - 8082:8082
-    restart: always
-  podium:
-    image: colosseum-project/podium:latest
-    ports:
-      - 8083:8083
     restart: always
   ludus:
     depends_on:
@@ -43,6 +41,15 @@ services:
       DB_USERNAME: ludus
       DB_PASSWORD: ludus
       ARENA_ENDPOINT: http://arena:8082
+  podium:
+    depends_on:
+      - ludus
+    image: colosseum-project/podium:latest
+    ports:
+      - 8083:8083
+    restart: always
+    environment:
+      LUDUS_ENDPOINT: http://ludus:8081
   bisellium:
     depends_on:
       - arena

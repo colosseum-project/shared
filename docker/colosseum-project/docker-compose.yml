@@ -25,6 +25,11 @@ services:
     ports:
       - 8082:8082
     restart: always
+  podium:
+    image: colosseum-project/podium:latest
+    ports:
+      - 8083:8083
+    restart: always
   ludus:
     depends_on:
       - database
@@ -41,6 +46,7 @@ services:
   bisellium:
     depends_on:
       - arena
+      - podium
       - ludus
     image: colosseum-project/bisellium:latest
     ports:
@@ -49,6 +55,7 @@ services:
     environment:
       LUDUS_ENDPOINT: http://ludus:8081
       ARENA_ENDPOINT: http://arena:8082
+      PODIUM_ENDPOINT: http://podium:8083
 
 volumes:
   data:

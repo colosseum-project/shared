@@ -24,7 +24,7 @@ services:
 
   # Colosseum project applications
   arena:
-    image: colosseum-project/arena:latest
+    image: voudoo/arena:latest
     ports:
       - 8082:8082
     restart: always
@@ -32,7 +32,7 @@ services:
     depends_on:
       - database
       - arena
-    image: colosseum-project/ludus:latest
+    image: voudoo/ludus:latest
     ports:
       - 8081:8081
     restart: always
@@ -44,7 +44,7 @@ services:
   podium:
     depends_on:
       - ludus
-    image: colosseum-project/podium:latest
+    image: voudoo/podium:latest
     ports:
       - 8083:8083
     restart: always
@@ -55,7 +55,7 @@ services:
       - arena
       - podium
       - ludus
-    image: colosseum-project/bisellium:latest
+    image: voudoo/bisellium:latest
     ports:
       - 8080:8080
     restart: always

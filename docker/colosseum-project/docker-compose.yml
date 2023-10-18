@@ -41,6 +41,13 @@ services:
       DB_USERNAME: ludus
       DB_PASSWORD: ludus
       ARENA_ENDPOINT: http://arena:8082
+  caesar:
+    depends_on:
+      - ludus
+    image: voudoo/caesar:latest
+    restart: always
+    environment:
+      LUDUS_ENDPOINT: http://ludus:8081
   podium:
     depends_on:
       - ludus

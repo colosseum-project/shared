@@ -1,0 +1,49 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: bisellium
+  labels:
+    project: colosseum
+  namespace: sandbox
+spec:
+  selector:
+    matchLabels:
+      app: bisellium
+  replicas: 2
+  template:
+    metadata:
+      name: bisellium
+      labels:
+        app: bisellium
+        tier: backend
+    spec:
+      containers:
+        - name: bisellium
+          image: docker.io/voudoo/bisellium:latest
+          ports:
+            - containerPort: 8080
+          resources:
+            limits:
+              memory: "256Mi"
+              cpu: "100m"
+          env:
+            - name: LUDUS_ENDPOINT
+              value: "http://ludus-service:8081"
+            - name: ARENA_ENDPOINT
+              value: "http://arena-service:8082"
+            - name: PODIUM_ENDPOINT
+              value: "http://podium-service:8083"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: bisellium-service-external
+  namespace: sandbox
+spec:
+  type: NodePort
+  selector:
+    app: bisellium
+  ports:
+    - name: http
+      port: 8080
+      nodePort: 30000

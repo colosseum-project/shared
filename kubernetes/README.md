@@ -44,7 +44,7 @@ curl -X POST http://127.0.0.1:30001/duels/resolve/random
 Once you are done, you can remove the cluster with this single command:
 
 ```sh
-kind delete cluster colosseum-project
+kind delete clusters colosseum-project
 ```
 
 ---

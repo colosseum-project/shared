@@ -30,7 +30,7 @@ The Ludus endpoint is also accessible via <http://127.0.0.1:30001/>. _This allow
 Add gladiators by running this Python script:
 
 ```sh
-python ./api/add_random_gladiators/main.py 127.0.0.1 -p 30001
+python ../api/add_random_gladiators/main.py 127.0.0.1 -p 30001
 ```
 
 Engage random duels with this cURL command:

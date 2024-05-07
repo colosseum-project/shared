@@ -2,12 +2,12 @@
 
 - [Deploy on Kubernetes](#deploy-on-kubernetes)
   - [Create the K8s cluster](#create-the-k8s-cluster)
-  - [Deploy the applicaton](#deploy-the-applicaton)
+  - [Deploy the application stack](#deploy-the-application-stack)
   - [Clean everything up](#clean-everything-up)
 
 ## Create the K8s cluster
 
-Here, we use [`kind`](https://kind.sigs.k8s.io/) to deploy our K8s sandbox environment on Docker.
+Here, we use [`kind`](https://kind.sigs.k8s.io/) to deploy our K8s sandbox environment in Docker.
 
 Use this command to create the cluster:
 
@@ -15,12 +15,15 @@ Use this command to create the cluster:
 kind create cluster --config ./kind_config.yaml
 ```
 
-## Deploy the applicaton
+## Deploy the application stack
 
-To deploy the application inside the cluster, run:
+To deploy the `colosseum` application stack inside the cluster, we use [`kustomize`](https://kustomize.io/).
+
+Run these commands to deploy the application stack:
 
 ```sh
-kubectl apply -f ./resources
+kubectl create namespace colosseum
+kustomize build ./manifests | kubectl apply -f -
 ```
 
 After a short moment, the Bisselium WebUI interface can be accessed via <http://127.0.0.1:30000/>.

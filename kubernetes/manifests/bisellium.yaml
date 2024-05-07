@@ -20,13 +20,9 @@ spec:
           image: docker.io/voudoo/bisellium:latest
           ports:
             - containerPort: 8080
-          env:
-            - name: LUDUS_ENDPOINT
-              value: "http://ludus-service:8081"
-            - name: ARENA_ENDPOINT
-              value: "http://arena-service:8082"
-            - name: PODIUM_ENDPOINT
-              value: "http://podium-service:8083"
+          envFrom:
+            - configMapRef:
+                name: colosseum-config
 ---
 apiVersion: v1
 kind: Service

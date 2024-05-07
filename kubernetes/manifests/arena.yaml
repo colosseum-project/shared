@@ -20,6 +20,9 @@ spec:
           image: docker.io/voudoo/arena:latest
           ports:
             - containerPort: 8082
+          envFrom:
+            - configMapRef:
+                name: colosseum-config
 ---
 apiVersion: v1
 kind: Service

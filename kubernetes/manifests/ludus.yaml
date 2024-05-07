@@ -18,8 +18,9 @@ spec:
       containers:
         - name: ludus
           image: docker.io/voudoo/ludus:latest
-          ports:
-            - containerPort: 8081
+          envFrom:
+            - configMapRef:
+                name: colosseum-config
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: "production"
@@ -29,8 +30,6 @@ spec:
               value: "ludus"
             - name: DB_PASSWORD
               value: "ludus"
-            - name: ARENA_ENDPOINT
-              value: "http://arena-service:8082"
 ---
 apiVersion: v1
 kind: Service

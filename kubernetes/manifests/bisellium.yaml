@@ -13,16 +13,15 @@ spec:
       name: bisellium
       labels:
         app: bisellium
-        tier: backend
     spec:
       containers:
-        - name: bisellium
-          image: docker.io/voudoo/bisellium:latest
-          ports:
-            - containerPort: 8080
-          envFrom:
-            - configMapRef:
-                name: colosseum-config
+      - name: bisellium
+        image: docker.io/voudoo/bisellium:latest
+        ports:
+        - containerPort: 8080
+        envFrom:
+        - configMapRef:
+            name: colosseum-apps-config
 ---
 apiVersion: v1
 kind: Service
@@ -33,6 +32,6 @@ spec:
   selector:
     app: bisellium
   ports:
-    - name: http
-      port: 8080
-      nodePort: 30000
+  - name: http
+    port: 8080
+    nodePort: 30000

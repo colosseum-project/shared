@@ -19,7 +19,23 @@ kind create cluster --config ./kind_config.yaml
 
 To deploy the `colosseum` application stack inside the cluster, we use [`kustomize`](https://kustomize.io/).
 
-Run these commands to deploy the application stack:
+Before, ensure you already have a database instance to host the application database.
+
+Although the application supports several DBMS, we will use a MariaDB database server for this example.
+
+Create a `database.env` file, which defines the database endpoint configuration, like so:
+
+_Replace with your own configuration values._
+
+```sh
+cat <<EOF >./manifests/database.env
+DB_URL=jdbc:mariadb://mariadb-service:3306/ludus
+DB_USERNAME=ludus
+DB_PASSWORD=ludus
+EOF
+```
+
+Finally, run these commands to deploy the application stack:
 
 ```sh
 kubectl create namespace colosseum

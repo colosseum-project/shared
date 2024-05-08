@@ -13,23 +13,18 @@ spec:
       name: ludus
       labels:
         app: ludus
-        tier: backend
     spec:
       containers:
-        - name: ludus
-          image: docker.io/voudoo/ludus:latest
-          envFrom:
-            - configMapRef:
-                name: colosseum-config
-          env:
-            - name: SPRING_PROFILES_ACTIVE
-              value: "production"
-            - name: DB_URL
-              value: "jdbc:mariadb://mariadb-service:3306/ludus"
-            - name: DB_USERNAME
-              value: "ludus"
-            - name: DB_PASSWORD
-              value: "ludus"
+      - name: ludus
+        image: docker.io/voudoo/ludus:latest
+        env:
+        - name: SPRING_PROFILES_ACTIVE
+          value: "production"
+        envFrom:
+        - configMapRef:
+            name: colosseum-apps-config
+        - secretRef:
+            name: ludus-database-config
 ---
 apiVersion: v1
 kind: Service
@@ -40,8 +35,8 @@ spec:
   selector:
     app: ludus
   ports:
-    - name: http
-      port: 8081
+  - name: http
+    port: 8081
 ---
 apiVersion: v1
 kind: Service
@@ -52,6 +47,6 @@ spec:
   selector:
     app: ludus
   ports:
-    - name: http
-      port: 8081
-      nodePort: 30001
+  - name: http
+    port: 8081
+    nodePort: 30001

@@ -3,8 +3,11 @@ kind: Kustomization
 namespace: colosseum
 resources:
 - configmap.yaml
-- mariadb.yaml
 - arena.yaml
 - podium.yaml
 - ludus.yaml
 - bisellium.yaml
+secretGenerator:
+- name: ludus-database-config
+  envs:
+  - database.env

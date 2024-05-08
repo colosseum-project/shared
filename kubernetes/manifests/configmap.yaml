@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: colosseum-config
+  name: colosseum-apps-config
 data:
   LUDUS_ENDPOINT: "http://ludus-service:8081"
   ARENA_ENDPOINT: "http://arena-service:8082"

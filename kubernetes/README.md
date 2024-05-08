@@ -5,6 +5,7 @@
   - [Deploy the application](#deploy-the-application)
     - [Host application database](#host-application-database)
     - [Deploy application stack](#deploy-application-stack)
+    - [Time to play](#time-to-play)
   - [Clean everything up](#clean-everything-up)
 
 ## Create the K8s cluster
@@ -68,28 +69,34 @@ kubectl create namespace colosseum
 kubectl apply -k ./.env
 ```
 
-After a short moment, the Bisselium WebUI interface can be accessed via <http://localhost/bisellium>.
+### Time to play
 
-The Ludus endpoint is also accessible via <http://localhost/ludus>. _This allows you to manage gladiators and engage them in combats._
+After a short moment, the Bisselium WebUI interface can be accessed via <http://localhost>.
 
-First you need to forward the ludus service port:
+You might want to add gladiators and engages them in duels.
+
+To do so, you need first to forward the ludus service port:
 
 ```sh
 # as a background job
 kubectl port-forward -n colosseum service/ludus-service 8080:http &
 ```
 
-Add gladiators by running this Python script:
+Now, the Ludus endpoint is accessible via <http://localhost:8080>.
+
+Add 10 random gladiators by running this Python script:
 
 ```sh
-python ../api/add_random_gladiators/main.py localhost -p 8080
+python ../api/add_random_gladiators/main.py localhost -p 8080 -n 10
 ```
 
-Engage random duels with this cURL command:
+Finally, engage random duels with this cURL command:
 
 ```sh
 curl -X POST http://localhost:8080/duels/resolve/random
 ```
+
+Have fun! :)
 
 ## Clean everything up
 
@@ -98,7 +105,3 @@ Once you are done, you can remove the cluster with this single command:
 ```sh
 kind delete clusters colosseum-project
 ```
-
----
-
-Have fun! :)

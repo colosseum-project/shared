@@ -1,0 +1,11 @@
+apiVersion: projectcontour.io/v1
+kind: HTTPProxy
+metadata:
+  name: bisellium-http-proxy
+spec:
+  virtualhost:
+    fqdn: localhost
+  routes:
+  - services:
+    - name: bisellium-service
+      port: 8080

@@ -38,8 +38,9 @@ mkdir -p .env
 cat <<EOF >./.env/kustomization.yaml
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
+namespace: colosseum
 resources:
-- ../manifests/production
+- ../manifests/kind
 secretGenerator:
 - name: ludus-config
   behavior: merge
@@ -67,20 +68,27 @@ kubectl create namespace colosseum
 kubectl apply -k ./.env
 ```
 
-After a short moment, the Bisselium WebUI interface can be accessed via <http://127.0.0.1:30000/>.
+After a short moment, the Bisselium WebUI interface can be accessed via <http://localhost/bisellium>.
 
-The Ludus endpoint is also accessible via <http://127.0.0.1:30001/>. _This allows you to manage gladiators and engage them in combats._
+The Ludus endpoint is also accessible via <http://localhost/ludus>. _This allows you to manage gladiators and engage them in combats._
+
+First you need to forward the ludus service port:
+
+```sh
+# as a background job
+kubectl port-forward -n colosseum service/ludus-service 8080:http &
+```
 
 Add gladiators by running this Python script:
 
 ```sh
-python ../api/add_random_gladiators/main.py 127.0.0.1 -p 30001
+python ../api/add_random_gladiators/main.py localhost -p 8080
 ```
 
 Engage random duels with this cURL command:
 
 ```sh
-curl -X POST http://127.0.0.1:30001/duels/resolve/random
+curl -X POST http://localhost:8080/duels/resolve/random
 ```
 
 ## Clean everything up

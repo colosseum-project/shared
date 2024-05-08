@@ -26,12 +26,11 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: bisellium-service-external
+  name: bisellium-service
 spec:
-  type: NodePort
+  type: ClusterIP
   selector:
     app: bisellium
   ports:
   - name: http
     port: 8080
-    nodePort: 30000

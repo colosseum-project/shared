@@ -8,6 +8,6 @@ resources:
 - ludus.yaml
 - bisellium.yaml
 secretGenerator:
-- name: ludus-database-config
+- name: ludus-config
   envs:
-  - database.env
+  - ludus.env
